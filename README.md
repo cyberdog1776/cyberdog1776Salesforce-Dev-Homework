@@ -57,8 +57,6 @@ Here are some ideas to get you started:
 
 # 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![Salesforce](https://img.shields.io/badge/%20Salesforce%20-8A2BE2
-
 </div>
 
 # 📊 GitHub Stats
